@@ -6870,4 +6870,20 @@ function getUrlClick(e) {
 
 document
   .querySelector(".search-btn.w-button[type='submit']")
-  .addEventListener("click", getUrlClick);
+  .addEventListener("click", function (e) {
+     e.preventDefault();
+    const button = e.target;
+    console.log(button);
+    const inputField = document.querySelector("[placeholder='Zip Code']");
+    const selectedAddress = inputField.value;
+  
+    const address = addressData.find((data) => data.Zip == selectedAddress);
+  
+    window.location.href = address ? address.Url : DEFAULT_ROUTE;
+  
+    if (!found) {
+      updateInfoPane("Url: " + DEFAULT_ROUTE);
+    }
+  
+    // window.location.href = DEFAULT_ROUTE;
+  });
