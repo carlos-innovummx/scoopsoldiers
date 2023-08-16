@@ -6853,6 +6853,7 @@ var DEFAULT_ROUTE =
 function getUrlClick(e) {
   e.preventDefault();
   const button = e.target;
+  console.log(button);
   const inputField = document.querySelector("[placeholder='Zip Code']");
   const selectedAddress = inputField.value;
 
