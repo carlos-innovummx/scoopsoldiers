@@ -99,7 +99,7 @@
     "State": "Georgia",
     "County": "Atlanta, GA",
     "Zip": 30004,
-    "Url": "https://scoopsoldiersalpharetta.manageandpaymyaccount.com"
+    "Url": "https://www.scoopsoldiers.com/free-quote/get-quote-atlanta"
   },
 {
     "State": "Georgia",
