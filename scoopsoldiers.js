@@ -6874,5 +6874,325 @@
   {
     "Zip": 78006,
     "Url": "https://scoopsoldierssanantonio.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33907,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33908,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33912,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33919,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33928,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33931,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33957,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33965,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33966,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33967,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34108,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34109,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34110,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34119,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34134,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 34135,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33901,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33903,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33904,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33909,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33914,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33916,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33917,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33921,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33922,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33924,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33956,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33990,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33991,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 33993,
+    "Url": "https://scoopsoldiersswflorida.manageandpaymyaccount.com"
+  },
+  {
+    "Zip": 85602,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85614,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85622,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85629,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85641,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85706,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85707,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85708,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85710,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85711,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85712,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85714,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85715,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85716,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85718,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85730,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85747,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85748,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85749,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85750,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85756,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85122,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85123,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85128,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85131,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85141,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85145,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85172,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85191,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85193,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85194,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85653,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85658,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85701,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85704,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85705,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85713,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85719,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85721,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85724,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85735,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85737,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85739,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85741,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85742,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85742,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85745,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85746,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85755,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
+  },
+  {
+    "Zip": 85756,
+    "Url": "https://scoopsoldierstucson.manageandpaymyaccount.com/"
   }
 ]
